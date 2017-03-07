@@ -8,4 +8,4 @@ var yh = y * h;
 
 
 
-console.log(x);
+console.log(yh);
