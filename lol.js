@@ -7,5 +7,11 @@ var h = 30 ;
 var yh = y * h;
 
 
+// Aqui arrregle la cagaada papuuuuu
 
-console.log(yh);
+
+function function_name(argument) {
+	console.log(yh)
+}
+
+console.log(x);
