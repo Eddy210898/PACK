@@ -7,7 +7,6 @@ var h = 30 ;
 var yh = y * h;
 
 
-
 // Aqui arrregle la cagaada papuuuuu
 
 
