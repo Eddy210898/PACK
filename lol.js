@@ -12,6 +12,7 @@ var yh = y * h;
 
 function function_name(argument) {
 	console.log(yh)
+	console.log("Karlo was here _)")
 }
 
 console.log(x);
